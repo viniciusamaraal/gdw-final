@@ -99,7 +99,7 @@ def fill_project_issues(records: list[Project], filter: Filter, issue_type, issu
         count = count + 1
 
 
-sonar_auth = ("1e83fe8218145c70eff585c0fc08bf04df4aa89b", "")
+sonar_auth = ("PUT_YOUR_SECRET_HERE", "")
 
 
 if __name__ == '__main__':
