@@ -9,4 +9,4 @@ presentation.py: Script utilizado para geração de gráfico e extração de mé
 └── models: Contém as classes que representam os projetos (Project), problemas (Issue), regras (Rule) e filtro (Filter)
 ```  
 
-Sorry by any mistake. Python is not the language wich I'm more experienced with! =)
+**Sorry by any mistake. Python is not the language wich I'm more experienced with! =)*
