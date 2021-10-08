@@ -2,8 +2,8 @@
 ## Extração de métricas da SonarCloud para projetos com análise pública
 
 ```
-extraction_tratment.py: Script para extração e tratamento dos dados oriundos da SonarCloud
-presentation.py: Script utilizado para geração de gráfico e extração de métricas
+extraction_tratment.py: script para extração e tratamento dos dados oriundos da SonarCloud
+presentation.py: script utilizado para geração de gráficos e extração de métricas
 └── article: contém o enunciado do trabalho (enunciado.pdf) e o artigo final entregue ao professor (artigo.pdf)
 └── data: dados gerados no pelo script extraction_tratment.py referentes às regras (rules.dat) e projetos (projects.dat)
 └── img: imagens utilizadas no artigo
