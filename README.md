@@ -4,10 +4,10 @@
 ```
 extraction_tratment.py: Script para extração e tratamento dos dados oriundos da SonarCloud
 presentation.py: Script utilizado para geração de gráfico e extração de métricas
-└── article: contem o enunciado do trabalho (enunciado.pdf) e o artigo final entregue ao professor (artigo.pdf)
-└── data: Contém os dados gerados referentes às regras (rules.dat) e projetos (projects.dat)
-└── img: Imagens utilizadas no artigo
-└── models: Contém as classes que representam os projetos (Project), problemas (Issue), regras (Rule) e filtro (Filter)
+└── article: contém o enunciado do trabalho (enunciado.pdf) e o artigo final entregue ao professor (artigo.pdf)
+└── data: contém os dados gerados referentes às regras (rules.dat) e projetos (projects.dat)
+└── img: imagens utilizadas no artigo
+└── models: contém as classes que representam os projetos (Project), problemas (Issue), regras (Rule) e filtro (Filter)
 ```  
 
 <object data="https://github.com/viniciusamaraal/gdw-final/blob/main/article/enunciado.pdf" type="application/pdf" width="700px" height="700px">
