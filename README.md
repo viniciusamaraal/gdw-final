@@ -1,4 +1,5 @@
-# Trabalho final apresentado à disciplina Gerencia de Dados na Web
+# Gerência de Dados na Web
+## Extração de métricas da SonarCloud para projetos com análise pública
 
 ```
 extraction_tratment.py: Script para extração e tratamento dos dados oriundos da SonarCloud
