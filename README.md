@@ -5,7 +5,7 @@
 extraction_tratment.py: Script para extração e tratamento dos dados oriundos da SonarCloud
 presentation.py: Script utilizado para geração de gráfico e extração de métricas
 └── article: contém o enunciado do trabalho (enunciado.pdf) e o artigo final entregue ao professor (artigo.pdf)
-└── data: contém os dados gerados referentes às regras (rules.dat) e projetos (projects.dat)
+└── data: dados gerados no pelo script *extraction_tratment.py* referentes às regras (rules.dat) e projetos (projects.dat)
 └── img: imagens utilizadas no artigo
 └── models: contém as classes que representam os projetos (Project), problemas (Issue), regras (Rule) e filtro (Filter)
 ```  
