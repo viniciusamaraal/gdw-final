@@ -1,0 +1,27 @@
+{
+  "component": {
+    "id": "AXGMhrIPb20y_eu_VS08",
+    "key": "Gilmond.Ebs",
+    "name": "Gilmond.EBS",
+    "qualifier": "TRK",
+    "measures": [
+      {
+        "metric": "ncloc_language_distribution",
+        "value": "cs=622517;xml=6344"
+      },
+      {
+        "metric": "ncloc",
+        "value": "628861"
+      },
+      {
+        "metric": "classes",
+        "value": "10372"
+      },
+      {
+        "metric": "line_coverage",
+        "value": "0.0",
+        "bestValue": false
+      }
+    ]
+  }
+}
